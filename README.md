@@ -2,6 +2,12 @@
 This code is based on the mmsegmentation framework. Please refer to the official document : 
 https://mmsegmentation.readthedocs.io/zh-cn/latest/ to complete the configuration of the basic environment.
 
+# Datasets
+In this paper, the comparative experiments on the public datasets DeepGlobe and CHN6 of remote sensing image 
+road extraction are carried out. If you want to download the dataset, please jump to the following two websites :
+DeepGlobe : http://deepglobe.org/challenge.html    or  https://competitions.codalab.org/competitions/18467#participate-get-data
+CHN6 : http://grzy.cug.edu.cn/zhuqiqi/zh_CN/yjgk/32368/list/index.htm
+
 # Run
 1.The data set is prepared according to the official document. If the DeepGlobe and CHN6 data sets are used, the configuration process 
 of the data set can be omitted. This project has been implemented, and only the data set path used by the model needs to be modified according to the document.
